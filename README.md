@@ -3,7 +3,7 @@
 This assumes you have a Flask application already created. 
 For this demonstration, I create a very simple Flask application in `hello.py`. 
 This file is very similar to what we saw in the lecture. 
-Please not the important parts that may be different to yours: at the top of the file you need to write `import os`,
+Please note the important parts that may be different to yours: at the top of the file you need to write `import os`,
 and at the bottom of the file instead of having simply `app.run(debug=True)`, replace that with the following:  
 ```
 if __name__ == "__main__":
